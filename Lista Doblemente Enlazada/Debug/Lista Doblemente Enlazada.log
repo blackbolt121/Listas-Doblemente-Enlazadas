@@ -1,0 +1,24 @@
+﻿  Lista Doblemente Enlazada.cpp
+C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Lista Doblemente Enlazada\List.h(105,20): warning C4101: 'error': variable local sin referencia
+C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Lista Doblemente Enlazada\List.h(92): message : al compilar la función del miembro clase plantilla "Nodo<T> *List<T>::getByIndex(const int &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Lista Doblemente Enlazada\List.h(171): message : Vea la referencia a la creación de una instancia de la función plantilla "Nodo<T> *List<T>::getByIndex(const int &)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Lista Doblemente Enlazada\List.h(57): message : al compilar la función del miembro clase plantilla "void List<int>::insert(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Lista Doblemente Enlazada\Lista Doblemente Enlazada.cpp(10): message : Vea la referencia a la creación de una instancia de la función plantilla "void List<int>::insert(const T &)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Lista Doblemente Enlazada\Lista Doblemente Enlazada.cpp(9): message : Vea la referencia a la creación de una instancia de clase plantilla "List<int>" que se está compilando
+  Lista Doblemente Enlazada.vcxproj -> C:\Users\rgo19\Documents\C++\Lista Doblemente Enlazada\Debug\Lista Doblemente Enlazada.exe
